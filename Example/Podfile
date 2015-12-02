@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'MGMatrix_Example', :exclusive => true do
+  pod "MGMatrix", :path => "../"
+end
+
+target 'MGMatrix_Tests', :exclusive => true do
+  pod "MGMatrix", :path => "../"
+
+  
+end
