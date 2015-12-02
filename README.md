@@ -78,7 +78,7 @@ MGMatrix needs ARC.
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-<Accelerate.Framework>
+Accelerate.Framework
 iOS 8+
 
 ## Installation
