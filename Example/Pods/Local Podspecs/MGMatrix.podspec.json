@@ -1,19 +1,19 @@
 {
   "name": "MGMatrix",
   "version": "0.1.0",
-  "summary": "A short description of MGMatrix.",
+  "summary": "High efficiency Matrix operations in Objective-C using Accelerate.framework.",
   "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/MGMatrix",
+  "homepage": "https://github.com/ghenania/MGMatrix",
   "license": "MIT",
   "authors": {
     "Mohamed GHENANIA": "mohamed.ghenania@intersection-lab.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/MGMatrix.git",
+    "git": "https://github.com/ghenania/MGMatrix.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
   "requires_arc": true,
   "source_files": "Pod/Classes/**/*",
@@ -21,5 +21,6 @@
     "MGMatrix": [
       "Pod/Assets/*.png"
     ]
-  }
+  },
+  "frameworks": "Accelerate"
 }

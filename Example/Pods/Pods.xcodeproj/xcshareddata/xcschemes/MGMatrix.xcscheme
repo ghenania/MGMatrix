@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18075AF0BC5FE7C83F0C880A"
+               BlueprintIdentifier = "3D6D96479DC59C0718913465"
                BuildableName = "MGMatrix.framework"
                BlueprintName = "MGMatrix"
                ReferencedContainer = "container:Pods.xcodeproj">
