@@ -58,10 +58,11 @@ MGMatrix* B = [MGMatrix identity:2];
 // C
 [C prettyLogWithName:@"C"];
 ```
-
+```string
 C = 
 ( -1.500000  -4.500000 )
 ( -3.000000  -6.000000 )
+```
 
 
 ##Todo
