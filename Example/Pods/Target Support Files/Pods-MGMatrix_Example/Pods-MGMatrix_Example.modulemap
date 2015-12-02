@@ -1,0 +1,6 @@
+framework module Pods_MGMatrix_Example {
+  umbrella header "Pods-MGMatrix_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

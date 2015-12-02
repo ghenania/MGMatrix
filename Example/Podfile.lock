@@ -1,0 +1,14 @@
+PODS:
+  - MGMatrix (0.1.0)
+
+DEPENDENCIES:
+  - MGMatrix (from `../`)
+
+EXTERNAL SOURCES:
+  MGMatrix:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGMatrix: e9ef1c4c1401f4984ea251b949304ea6b5f4cfab
+
+COCOAPODS: 0.38.2
