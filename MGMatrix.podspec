@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "MGMatrix"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "High efficiency Matrix operations in Objective-C using Accelerate.framework."
 
 # This description is used to generate tags and improve search results.
@@ -16,8 +16,7 @@ Pod::Spec.new do |s|
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "MGMatrix proposed high efficiency Matrix operations in Objective-C which wraps BLAS, LAPACK and vDSP libraries in Accelerate.framework."
 
   s.homepage         = "https://github.com/ghenania/MGMatrix"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
