@@ -1,6 +1,6 @@
 # MGMatrix
 MGMatrix provides a high efficiency implementation of many standards Matrix operations.
-It is built over Accelerate iOS and uses vDSP and LAPAC for performances. 
+It is built over Accelerate iOS and uses vDSP and LAPACK for performances. 
 MGMatrix interface is easy to use and Debug tools are here too help you during your developments.
 
 ## How to
